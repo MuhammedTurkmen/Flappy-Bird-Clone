@@ -1,0 +1,22 @@
+{
+    "name": "Core",
+    "rootNamespace": "MET.Core",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:909aa354bd8d46345a536d0d1221d9a3"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

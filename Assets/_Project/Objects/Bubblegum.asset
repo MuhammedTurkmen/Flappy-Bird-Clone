@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd8ab691b55293448d00c5721f3630d, type: 3}
+  m_Name: Bubblegum
+  m_EditorClassIdentifier: UI::MET.UI.BirdCostume
+  ID: 3
+  Point: 30
+  Sprites:
+  - {fileID: 21300000, guid: 931124811d26159499c5cfb8ba8411d9, type: 3}
+  - {fileID: 21300000, guid: 6098b3a239c523840a47d6b5af4352d0, type: 3}
+  - {fileID: 21300000, guid: 7201c77616f0b72439741ca7b338c608, type: 3}

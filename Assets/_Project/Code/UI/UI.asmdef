@@ -1,0 +1,24 @@
+{
+    "name": "UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:65e09fabd99da1c499beea3dd90677d7",
+        "GUID:6ee090c2e06e8304a80d666dce30eed5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:fdde31f739d758041b898574b9aa75ff"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

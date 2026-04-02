@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd8ab691b55293448d00c5721f3630d, type: 3}
+  m_Name: ErogeCopper
+  m_EditorClassIdentifier: UI::MET.UI.BirdCostume
+  ID: 1
+  Point: 10
+  Sprites:
+  - {fileID: 21300000, guid: e45062c9eb29dab4d84a4851787eaff0, type: 3}
+  - {fileID: 21300000, guid: e82fc8afa764aaa4a9a767ea4d5b815d, type: 3}
+  - {fileID: 21300000, guid: 13aa2bb699439a745b73ddf7a719a661, type: 3}

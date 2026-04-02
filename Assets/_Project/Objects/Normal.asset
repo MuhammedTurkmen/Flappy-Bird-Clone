@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bd8ab691b55293448d00c5721f3630d, type: 3}
+  m_Name: Normal
+  m_EditorClassIdentifier: UI::MET.UI.BirdCostume
+  ID: 0
+  Point: 0
+  Sprites:
+  - {fileID: 21300000, guid: b7c3a8206c8361947bb5851e8ac4c267, type: 3}
+  - {fileID: 21300000, guid: 861d494fdfe7d374fa6ab9f9e71d35c3, type: 3}
+  - {fileID: 21300000, guid: e1f07af751b327547a304fbbb7a7a41b, type: 3}
