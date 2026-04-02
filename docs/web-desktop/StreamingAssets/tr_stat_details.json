@@ -1,0 +1,143 @@
+﻿
+{
+  "NeedToBeAdded":{
+    "Player_EnemyCreateCount": "add this",
+    "SpikeBall_Defence": "add this",
+    "SpikeBall_Shield": "add this",
+    "BloodSpikeBall_BloodExplosionPower": "add this",
+    "BloodSpikeBall_BloodExplosionArea": "add this"
+  },
+
+  "Player_MaxHealth": {
+    "name": "Maksimum can",
+    "description": "Maksimum can Description"
+  },
+  "Player_EnemySpawnRate": {
+    "name": "Düşman oluşma sıklığı",
+    "description": "Düşman oluşma sıklığı Description"
+  },
+  "Player_EnemyCount": {
+    "name": "Maksimum düşman sayısı",
+    "description": "Maksimum düşman sayısı Description"
+  },
+  "Player_PushArea": {
+    "name": "Düşman ittirme alanı büyüklüğü",
+    "description": "Düşman ittirme alanı büyüklüğü Description"
+  },
+  "Player_ScreenFlashDamage": {
+    "name": "Ekran saldırısı hasarı",
+    "description": "Ekran saldırısı hasarı Description"
+  },
+  "Player_ScreenFlashCooldown": {
+    "name": "Ekran saldırısı bekleme süresi kısaltma",
+    "description": "Ekran saldırısı bekleme süresi kısaltma Description"
+  },
+  "Player_HealthRegen": {
+    "name": "Zamanla yenilenen iyileşme miktarı",
+    "description": "Zamanla yenilenen iyileşme miktarı Description"
+  },
+  "Player_SlowFactor": {
+    "name": "Yavaşlama faktörü",
+    "description": "Yavaşlama faktörü Description"
+  },
+  "Player_LaunchDistance": {
+    "name": "Maksimum fırlatma uzaklığı",
+    "description": "Maksimum fırlatma uzaklığı Description"
+  },
+  "Player_LaunchCooldown": {
+    "name": "Fırlatma bekleme süresi ",
+    "description": "Fırlatma bekleme süresi Description"
+  },
+  "Player_Defence": {
+    "name": "Defence",
+    "description": "Defans Description"
+  },
+  "Player_BloodGainMultiplier": {
+    "name": "Kan kazanma çarpanı",
+    "description": "Kan kazanma çarpanı Description"
+  },
+
+  
+  "SpikeBall_BaseAttackDamage": {
+    "name": "Hasar miktarı",
+    "description": "Hasar miktarı Description"
+  },
+  "SpikeBall_CritMultiplier": {
+    "name": "Kritik hasar çarpanı",
+    "description": "Kritik hasar çarpanı Description"
+  },
+  "SpikeBall_CritChance": {
+    "name": "Kritik hasar ihtimali",
+    "description": "Kritik hasar ihtimali Description"
+  },
+  "SpikeBall_MaxDurability": {
+    "name": "Maksimum dayanıklılık miktarı",
+    "description": "Maksimum dayanıklılık Description"
+  },
+  "SpikeBall_ThornAura": {
+    "name": "Yavaşlatma aurası",
+    "description": "Yavaşlatma aurası Description"
+  },
+  "SpikeBall_BloodChargeGain": {
+    "name": "Kan yükü toplama miktarı",
+    "description": "Kan yükü toplama miktarı Description"
+  },
+  "SpikeBall_BloodPullDistance": {
+    "name": "Kan çekimi uzaklığı",
+    "description": "Kan çekimi uzaklığı Description"
+  },
+  "SpikeBall_BloodPullForce": {
+    "name": "Kan çekimi gücü",
+    "description": "Kan çekimi gücü Description"
+  },
+  "SpikeBall_MaxBloodCharge": {
+    "name": "Dikenin tutabileceği maksimum yük miktarı",
+    "description": "Dikenin tutabileceği maksimum yük miktarı Description"
+  },
+  "SpikeBall_DurabilityRegenPerBloodCharge": {
+    "name": "Kan başına iyileşme miktarı",
+    "description": "Kan başına iyileşme miktarı Description"
+  },
+  "SpikeBall_BloodExplosionPower": {
+    "name": "Kan patlaması gücü",
+    "description": "Kan patlaması gücü Description"
+  },
+  "SpikeBall_BloodExplosionArea": {
+    "name": "Kan patlaması alanı",
+    "description": "Kan patlaması alanı Description"
+  },
+  "SpikeBall_SpikeCount": {
+    "name": "Maksimum diken sayısı",
+    "description": "Maksimum diken sayısı Description"
+  },
+  "SpikeBall_HealthSteal": {
+    "name": "Can çalma miktarı",
+    "description": "Can çalma miktarı Description"
+  },
+  "SpikeBall_BleedingChargeByHit": {
+    "name": "Kanama miktarı",
+    "description": "Kanama miktarı Description"
+  },
+  "SpikeBall_BleedingAmountByTime": {
+    "name": "Kanama miktarı",
+    "description": "Kanama miktarı Description"
+  },
+  "SpikeBall_MaxBleedingCharge": {
+    "name": "Maksimum kanama yükü",
+    "description": "Maksimum kanama yükü Description"
+  },
+  "SpikeBall_BleedingChance": {
+    "name": "Bleeding chance",
+    "description": "Bleeding chance description"
+  },
+  "SpikeBall_Size": {
+    "name": "BleedingChance",
+    "description": "BleedingChance description"
+  },
+
+
+  "BloodSpikeBall_SpawnChance": {
+    "name": "BloodSpikeSpawnChance",
+    "description": "BloodSpikeSpawnChance Description"
+  }
+}
